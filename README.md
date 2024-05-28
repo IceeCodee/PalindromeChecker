@@ -6,5 +6,5 @@ This repository contains a simple web application that allows the user to input 
 * HTML
 * CSS
 
-  Here is a screenshot of the webpage:
-  
+Here is a screenshot of the webpage:
+![plaindromeChecker.png]
