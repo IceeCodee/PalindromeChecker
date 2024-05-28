@@ -7,4 +7,4 @@ This repository contains a simple web application that allows the user to input 
 * CSS
 
 Here is a screenshot of the webpage:
-!(palindromeChecker.png)
+![](palindromeChecker.png)
